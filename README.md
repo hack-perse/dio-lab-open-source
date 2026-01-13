@@ -19,4 +19,7 @@ Repositório para armanezar resumos de git e github do curso Versionamento de c�
 * git status;
 * git remote add origin URL;
 
-
+importante : nós quando trabalhamos com projetos opensource sempre temos:
+* Fork do projeto original;
+* repositório remoto (origin) do projeto forkeado para implementar no seu repositório e futuramente realizar um pull request;
+* repositório remoteo (upstream) do projeto original para puxar as atualizações do sistema;
